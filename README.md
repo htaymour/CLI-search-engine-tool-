@@ -19,8 +19,8 @@ For a more detailed and deep search, enter 99.
 The results will be displayed live on your terminal or CLI window.
 
 ## Examples
-<img src="result_search.jpg" width="1200" height="700">
-<img src="spider_search.jpg" width="1200" height="700">
+<img src="result_search.jpg" width="1500" height="700">
+<img src="spider_search.jpg" width="1500" height="700">
 
 ## Notes
 Make sure to keep the go.bat and .py script file in the same folder.
