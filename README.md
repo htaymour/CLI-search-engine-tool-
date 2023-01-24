@@ -36,4 +36,5 @@ The results will be displayed live on your terminal or CLI window.
 
 ## Notes
 Make sure to keep the go.bat and .py script file in the same folder.
-The search results are based on a trained model, so the results may vary depending on the data the model was trained on.
+
+The search results are based on a trained model, so the results may vary depending on the data the model was trained on. The spider search is a further deep web inspection of how much your search parameters are found on the urls list while the spider learn percent is how much the urls are searched againest your predefined tokens.
